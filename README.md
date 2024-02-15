@@ -26,6 +26,8 @@ Technologies Used:
 JavaScript (with D3.js library)
 Plotly.js for interactive visualizations
 HTML/CSS for dashboard layout and styling
+
+
 Note:
 Ensure an active internet connection to fetch data from the JSON endpoint. The dashboard may not function properly without internet access.
 For this assignment support from ChatGPT and Ask BCS were utilized around setting dropdown menu and connecting updates across all charts. 
