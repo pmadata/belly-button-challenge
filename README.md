@@ -14,7 +14,7 @@ Dashboard - features:
 
 Usage:
 
-Open the dashboard in a web browser: https://pmadata.github.io/belly-button-challenge/
+Open the dashboard in a web browser: https://pmadata.github.io/belly-button-challenge/ .
 Use the dropdown menu to select a sample of interest.
 Explore the bar chart and bubble chart to visualize the microbial composition of the selected sample.
 View demographic information in the panel to understand the characteristics of the selected sample's donor.
